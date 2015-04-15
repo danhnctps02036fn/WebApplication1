@@ -1,6 +1,6 @@
 ﻿Imports System.Web.Http
 Imports System.Web.Optimization
-
+' đã EDIT trên file ứng dụng này 
 Public Class WebApiApplication
     Inherits System.Web.HttpApplication
 
